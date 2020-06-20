@@ -1,5 +1,2 @@
-meu primeiro sistema
-
-criando nova coisa
-
-alteração feita no master
+Meu primeiro sistema no GIT
+alterar o que quiser
